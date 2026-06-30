@@ -1,0 +1,128 @@
+canonical_identifier: bkk:krp/KR4j0048/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0048/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 夢窗稿
+  date: '2015-08-25 00:48:31.705152'
+  source:
+    repository: kanripo
+    path: KR4j0048
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0048_000-WYG.yaml, hash: 'sha256:445e4edc3792cc370d3cbfddb2b29aa7938fe12982911973db7f87490be383ba'}
+  - {seq: 1, filename: KR4j0048_001-WYG.yaml, hash: 'sha256:c9f53c6845b93da12dbbf1bbf0ed44b29676ed9cfdbf3df5697ea6a8d456cf78'}
+  - {seq: 2, filename: KR4j0048_002-WYG.yaml, hash: 'sha256:c7b3ab34d13184a142eca6c30da40d7de7eb9f828c8dedf661a0765f7d465720'}
+  - {seq: 3, filename: KR4j0048_003-WYG.yaml, hash: 'sha256:bbf031bc840500ff041c7ed159eced2529607dca8d0847f0e19b3b24944890cb'}
+  - {seq: 4, filename: KR4j0048_004-WYG.yaml, hash: 'sha256:3c7bdb6da816c4ceefcc415a89d82ae3134a84a56067bd3fdd0b7f14c8f88b8f'}
+  - {seq: 5, filename: KR4j0048_005-WYG.yaml, hash: 'sha256:ed3d0bf1f621aa86593aabe3ad8fc279e9ddeff8e53177b187843f6ca7bac39d'}
+  - {seq: 6, filename: KR4j0048_006-WYG.yaml, hash: 'sha256:752e8e0d41589dfd48e62e2fcb063625496a35ce50de1321081d1239bb85b5c2'}
+  - {seq: 7, filename: KR4j0048_007-WYG.yaml, hash: 'sha256:79e735053d3552b453a33a4dac5e34888f43a4930968b860da9a8baf7498bbf1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0048_000-WYG.markers.yaml, hash: 'sha256:bc1f4816b1d085e165cac9a6bdfe67f927e9983e4694afe209a3878d0f6b8441'}
+  - {seq: 1, role: markers, filename: assets/KR4j0048_001-WYG.markers.yaml, hash: 'sha256:34a8da57a09466ae8c2bf495f4c886d8021b297708f1ac061e8cdfb1aed86776'}
+  - {seq: 2, role: markers, filename: assets/KR4j0048_002-WYG.markers.yaml, hash: 'sha256:8c7c77a66d675ee6814bf560edc0a07a8119cd29e6c06333f834910e72766f7f'}
+  - {seq: 3, role: markers, filename: assets/KR4j0048_003-WYG.markers.yaml, hash: 'sha256:9f39cc8199e5a9d85300eca3f67c0051742fe51cacb5087cd50a0b053cd84baa'}
+  - {seq: 4, role: markers, filename: assets/KR4j0048_004-WYG.markers.yaml, hash: 'sha256:0f3e5893b04af0b7d64d490a8968e614338c16bc582de9e91da9fe2ccc1e2ff4'}
+  - {seq: 5, role: markers, filename: assets/KR4j0048_005-WYG.markers.yaml, hash: 'sha256:3a41a21f546ad7115e6a3a4bef61439f5627e5ba2752fb4a3d76e28d0ff7f837'}
+  - {seq: 6, role: markers, filename: assets/KR4j0048_006-WYG.markers.yaml, hash: 'sha256:dc120b5068fbc1c4be6fc2aa7155d6241f59a080855c30b6491a5e6424f75368'}
+  - {seq: 7, role: markers, filename: assets/KR4j0048_007-WYG.markers.yaml, hash: 'sha256:11616e653381978c077496b039a3b6a2bb3a4e184bff2e2bff7e80dc92547553'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0048_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 899
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0048_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 9863
+  label: 甲稿卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4j0048_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 8231
+  label: 乙稿卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4j0048_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 200
+  label: 乙稿跋
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4j0048_WYG_003-2a
+    span:
+    - body
+    - 200
+    - 7441
+  label: 丙稿卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4j0048_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 8154
+  label: 丁稿卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4j0048_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 194
+  label: 夢窻絶筆
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4j0048_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 879
+  label: 夢窗補遺
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4j0048_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 134
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:8dd48eb3b23b0ebcf478a21e18f20a64c5bfb3b45399f9b1350a8b7f0d038aae

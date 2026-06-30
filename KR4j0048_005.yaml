@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0048/krp/v1/juan/5
+seq: 5
+front:
+  text: 夢窗絶筆
+  hash: sha256:7238a4a7f26379b73515823c0fece9e5abf388508ac1421fd1b65a93e5637bcd
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0048_WYG_005-1a, image: WYG1488/WYG1488-0371c.png}
+body:
+  text: 鶯啼序闕吳駕雲閬海闕春空燦綺倒銀海燕影西城闕天鏡無際綵翼曳扶搖宛轉雲龍虹尾交相曳闕髙處闕笑語吹墜清濯緇塵闕屏障一一鶯花薜蘿闕紅香流水闕領客闕離席而語敢詫京兆闕成良慶會賡歌熙載隆都闕閒暇遺闕雅飾繁華地平瞻太極闕天闕納璇題靜夜沈秋闕風觀闕麗日闕正午洗盡脂痕茸唾淨捲麯塵永晝低垂繡帷十二髙軒駟馬峩冠鳴珮班回花底修禊飲御爐香分惹朝衣袂碧桃數㸃飛花湧出宫溝陽春萬里淳祐十一年二月甲子四明吳文英君特書
+  hash: sha256:7f8db58097634b860371980ee2f75638b153b6b18f8be13b1fc06deef27772c2
+metadata:
+  title: 夢窗稿
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:48:31.705152'
+  juan_title: 夢窻絶筆
+  source:
+    repository: kanripo
+    path: KR4j0048/KR4j0048_005.txt
+hash: sha256:94f4f926a03a68b8c44cda3e260d2192e2d1c420f9097b9edf8e1291737b2329

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0048/WYG/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夢窗詞跋或云夢窗詞一巻或云凡四巻以甲乙丙丁釐目或又云四明吳君特從吳履齋諸公逰晚年好填詞謝世後同逰集其丙丁兩年稿若干篇釐為二巻末有鶯啼序遺缺甚多葢絶筆也與余家藏本合符既閲花菴諸刻又得逸篇九闋附存巻尾山陰尹煥序略云求詞于吾宋前有清真後有夢窗此非煥之言四海之公言也湖南毛晉識
+  hash: sha256:9c4b4198dc0c29135e7021aeea5f445b3bf3353a6d4a2685d84d844c49e581a3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0048_WYG_007-1a, image: WYG1488/WYG1488-0373d.png}
+metadata:
+  title: 夢窗稿
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:31.705152'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4j0048/KR4j0048_007.txt
+hash: sha256:79e735053d3552b453a33a4dac5e34888f43a4930968b860da9a8baf7498bbf1

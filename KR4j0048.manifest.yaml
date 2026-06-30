@@ -1,0 +1,134 @@
+canonical_identifier: bkk:krp/KR4j0048/v1
+canonical_location: https://kanripo.org/bkk/KR4j0048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 夢窗稿
+  date: '2015-08-25 00:48:31.705152'
+  source:
+    repository: kanripo
+    path: KR4j0048
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0048_000.yaml, hash: 'sha256:194fe75c909f4ad7a71dc08a162cda216a2c72bb052fb2ff015fef5534bda9c1'}
+  - {seq: 1, filename: KR4j0048_001.yaml, hash: 'sha256:4212818631221a4a9862795f3efc7e00d147e3508b3dcf653e447d405777c2b6'}
+  - {seq: 2, filename: KR4j0048_002.yaml, hash: 'sha256:70d672a178ae22ebb4735666df6d50558c0f3bcfde0866a0975226681d762772'}
+  - {seq: 3, filename: KR4j0048_003.yaml, hash: 'sha256:57ab789657265f8c0c431edfd0d2da0932f2f567271cdf66dfc13d8a99191aae'}
+  - {seq: 4, filename: KR4j0048_004.yaml, hash: 'sha256:810af360544c932f65af096bc23aa2607903d824e6c11f84960ddb65132ad05a'}
+  - {seq: 5, filename: KR4j0048_005.yaml, hash: 'sha256:94f4f926a03a68b8c44cda3e260d2192e2d1c420f9097b9edf8e1291737b2329'}
+  - {seq: 6, filename: KR4j0048_006.yaml, hash: 'sha256:2fdd6d42000439503d7cfa6b4efd5b38cec86b0489bbb53998b206d1fdc3f50c'}
+  - {seq: 7, filename: KR4j0048_007.yaml, hash: 'sha256:cb16fe73b01ec2a8eda1d111354c0e5eec1189fe56e9e91dde8e68ef4adadb2b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0048_000.markers.yaml, hash: 'sha256:da48226155b1392c6e56dd3d5ce03f9dd7e18f839fd9ba7054a7b0d7b67feda7'}
+  - {seq: 1, role: markers, filename: assets/KR4j0048_001.markers.yaml, hash: 'sha256:c1b975737fe42876c526362af1b1e552b03fb5d5a6927125e92bcea6e83d5acb'}
+  - {seq: 2, role: markers, filename: assets/KR4j0048_002.markers.yaml, hash: 'sha256:66526635c51c51ae0b6698bb52bf85e2b4c8dd685332d0a04697a07b4ca97d99'}
+  - {seq: 3, role: markers, filename: assets/KR4j0048_003.markers.yaml, hash: 'sha256:cb61a11de97d4f6acbfb3bf63b1224d555385da1edc988b6ad23e5f4707f0424'}
+  - {seq: 4, role: markers, filename: assets/KR4j0048_004.markers.yaml, hash: 'sha256:a97334c6c3231afc375e99dc307dd875532bfd76930c53d50902f97caa971782'}
+  - {seq: 5, role: markers, filename: assets/KR4j0048_005.markers.yaml, hash: 'sha256:650afcb2fc0b52608fa8736350b85917738fa227597b205b0ead8c188833b8c1'}
+  - {seq: 6, role: markers, filename: assets/KR4j0048_006.markers.yaml, hash: 'sha256:1bfbaf1533de9248fca4a8eee4d5f5a692d982d039fe4b7b308029c056f312df'}
+  - {seq: 7, role: markers, filename: assets/KR4j0048_007.markers.yaml, hash: 'sha256:1694c99748b494fd380f743a03db6b84d5af29ed1e115d1adb014c81fd1d65b4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0048_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 899
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0048_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 9863
+  label: 甲稿卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4j0048_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 8231
+  label: 乙稿卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4j0048_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 200
+  label: 乙稿跋
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4j0048_WYG_003-2a
+    span:
+    - body
+    - 200
+    - 7441
+  label: 丙稿卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4j0048_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 8154
+  label: 丁稿卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4j0048_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 194
+  label: 夢窻絶筆
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4j0048_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 879
+  label: 夢窗補遺
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4j0048_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 134
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:4baf1b2e2caf31c17e3fb0619cb6319c772d2b92e6eb096ac62d5aa540700e0b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
