@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4j0048/krp/v1/juan/5
 seq: 5
 front:
-  text: 夢窻絶筆
-  hash: sha256:378126de549ce2146d18d67360805076e0326e5a2c509f5a6facad5ae0dd04d2
+  text: 夢窗絶筆
+  hash: sha256:7238a4a7f26379b73515823c0fece9e5abf388508ac1421fd1b65a93e5637bcd
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0048_WYG_005-1a, image: WYG1488/WYG1488-0371c.png}
 body:
-  text: 鸎啼序闕呉駕雲閬海闕春空燦綺倒銀海燕影西城闕天鏡無際綵翼曳扶搖宛轉雲龍虹尾交相曳闕髙處闕笑語吹墜清濯緇塵闕屏障一一鸎花薜蘿闕紅香流水闕領客闕離席而語敢詫京兆闕成良慶會賡歌熈載隆都闕閒暇遺闕雅飾繁華地平瞻太極闕天闕納璇題靜夜沈秋闕風觀闕麗日闕正午洗盡脂痕茸唾淨捲麯塵永晝低垂繡帷十二髙軒駟馬峩冠鳴珮班回花底修禊飲御爐香分惹朝衣袂碧桃數㸃飛花湧出宫溝陽春萬里淳祐十一年二月甲子四明呉文英君特書
-  hash: sha256:f3060fc758d50a1feb59c09080aaf362f82fba7ae426aa620b11fd2ef350b5c5
+  text: 鶯啼序闕吳駕雲閬海闕春空燦綺倒銀海燕影西城闕天鏡無際綵翼曳扶搖宛轉雲龍虹尾交相曳闕髙處闕笑語吹墜清濯緇塵闕屏障一一鶯花薜蘿闕紅香流水闕領客闕離席而語敢詫京兆闕成良慶會賡歌熙載隆都闕間暇遺闕雅飾繁華地平瞻太極闕天闕納璇題靜夜沈秋闕風觀闕麗日闕正午洗盡脂痕茸唾淨捲麯塵永晝低垂繡帷十二髙軒駟馬峩冠鳴珮班回花底修禊飲御爐香分惹朝衣袂碧桃數點飛花湧出宫溝陽春萬里淳祐十一年二月甲子四明吳文英君特書
+  hash: sha256:b7b8e93f1ab8b29d7f039b4951be3e7645bc785a5d8789f189765b8c9ab00ae8
 metadata:
   title: 夢窗稿
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0048/KR4j0048_005.txt
-hash: sha256:d9d17bc60f2ed33c98b3e74ba63553ee7075b40fba351fcf27924b61c58c90d3
+hash: sha256:3ac8f09992ee8336419e7b08e96fc78a41e27a75af998dc1e8a97573e00195d6
